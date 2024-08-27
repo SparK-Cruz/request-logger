@@ -1,0 +1,26 @@
+{
+  "name": "request-logger",
+  "version": "1.0.0",
+  "description": "Simple middleware for logging your incoming express requests",
+  "type": "commonjs",
+  "main": "index.js",
+  "module": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparK-Cruz/request-logger.git"
+  },
+  "keywords": [
+    "express",
+    "http",
+    "https",
+    "middleware",
+    "logging",
+    "request"
+  ],
+  "author": "Roger Cruz <dev.rogercruz@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/SparK-Cruz/request-logger/issues"
+  },
+  "homepage": "https://github.com/SparK-Cruz/request-logger#readme"
+}

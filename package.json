@@ -1,6 +1,6 @@
 {
   "name": "request-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple middleware for logging your incoming express requests",
   "type": "commonjs",
   "main": "index.js",

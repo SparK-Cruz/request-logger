@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SparK-Cruz/request-logger/issues"
   },
-  "homepage": "https://github.com/SparK-Cruz/request-logger#readme"
+  "homepage": "https://github.com/SparK-Cruz/request-logger#readme",
+  "peerDependencies": {
+    "express": "^4.19.2"
+  }
 }

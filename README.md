@@ -1,5 +1,5 @@
-Package request-logger
-======================
+Package express-mini-logger
+===========================
 
 Simple middleware for logging your incoming express requests
 
@@ -8,7 +8,7 @@ Simple middleware for logging your incoming express requests
 CommonJS:
 ```js
 const express = require('express');
-const requestLogger = require('request-logger');
+const requestLogger = require('express-mini-logger');
 
 const app = express();
 
@@ -20,7 +20,7 @@ app.use(requestLogger({
 ESModule:
 ```js
 import express from 'express';
-import requestLogger from 'request-logger';
+import requestLogger from 'express-mini-logger';
 
 const app = express();
 
